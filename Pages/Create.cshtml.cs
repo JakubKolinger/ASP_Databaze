@@ -1,11 +1,11 @@
 using ASP_Databáze.Data;
 using ASP_Databáze.Models;
-using ASP03Db.Data;
-using ASP03Db.Models;
+using ASP_Databáze.Data;
+using ASP_Databáze.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ASP03Db.Pages
+namespace ASP_Databáze.Pages
 {
     public class CreateModel : PageModel
     {
