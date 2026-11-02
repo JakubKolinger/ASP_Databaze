@@ -14,7 +14,7 @@ namespace ASP_Databáze.Models
         public required string Title { get; set; }
 
         [Range(1888, 2100, ErrorMessage = "Rok vydání musí být mezi 1888 a 2100.")]
-        public int year { get; set; }
+        public int Year { get; set; }
 
         [Required(ErrorMessage = "Délka filmu je povinná.")]
         public long Length { get; set; }

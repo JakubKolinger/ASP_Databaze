@@ -18,11 +18,11 @@ namespace ASP_Databáze.Data
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Movie>().HasData(
-                new Movie { MovieId = 1, Title = "Pulp Fiction", year = 1994, Length = 154 },
-                new Movie { MovieId = 2, Title = "The Shawshank Redemption", year = 1994, Length = 142 },
-                new Movie { MovieId = 3, Title = "The Godfather", year = 1972, Length = 175 },
-                new Movie { MovieId = 4, Title = "The Dark Knight", year = 2008, Length = 152 },
-                new Movie { MovieId = 5, Title = "Forrest Gump", year = 1994, Length = 142 }
+                new Movie { MovieId = 1, Title = "Pulp Fiction", Year = 1994, Length = 154 },
+                new Movie { MovieId = 2, Title = "The Shawshank Redemption", Year = 1994, Length = 142 },
+                new Movie { MovieId = 3, Title = "The Godfather", Year = 1972, Length = 175 },
+                new Movie { MovieId = 4, Title = "The Dark Knight", Year = 2008, Length = 152 },
+                new Movie { MovieId = 5, Title = "Forrest Gump", Year = 1994, Length = 142 }
             );
         }
     }

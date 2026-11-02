@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_databáze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c2c6f014aba433dae00f30bc46be035b258230")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_databáze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_databáze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
