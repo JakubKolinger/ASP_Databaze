@@ -1,9 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ASP_Databáze.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
-
-using ASP_Databáze.Models;
 
 namespace ASP_Databáze.Data
 {
